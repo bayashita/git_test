@@ -1,2 +1,4 @@
 test file
 modified
+diff test1
+diff test2
